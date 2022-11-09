@@ -1,1 +1,1 @@
-# Algorithm using Python
+# Algorithm in Python
